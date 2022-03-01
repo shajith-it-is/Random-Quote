@@ -25,5 +25,5 @@ function loader() {
         loader.style.display = 'none';
         div.style.display = 'block';
         document.querySelector('body').classList.remove('modal-screen');
-    }, 750);
+    }, 1200);
 }
